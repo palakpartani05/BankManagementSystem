@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Dec 27 00:12:18 IST 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0194-0446-d507-00000770de30 
+on database directory D:\PALAK\TCS\PROJECT\BMS\bank1 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@443b7951 
+Loaded from file:/C:/Users/tusha/Downloads/db-derby-101420-bin/db-derby-10.14.2.0-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15.0.1+9-18
+user.dir=D:\PALAK\TCS\PROJECT\BMS
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
